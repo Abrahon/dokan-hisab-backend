@@ -1,0 +1,6 @@
+@DokanHisab_HostAddress = http://localhost:5183
+
+GET {{DokanHisab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
