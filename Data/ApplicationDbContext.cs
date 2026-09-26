@@ -1,3 +1,4 @@
+using DokanHisab.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace DokanHisab.Data;
@@ -10,7 +11,13 @@ public class ApplicationDbContext : DbContext
     {
     }
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    public DbSet<User> Users => Set<User>();
+
+    public DbSet<EmailVerificationOtp> EmailVerificationOtps =>
+        Set<EmailVerificationOtp>();
+
+    protected override void OnModelCreating(
+        ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
 

@@ -6,8 +6,11 @@
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/DokanHisab.runtimeconfig.json
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/DokanHisab.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/DokanHisab.pdb
+/home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
+/home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/DotNetEnv.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/FluentValidation.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Humanizer.dll
+/home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/MailKit.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
@@ -32,10 +35,12 @@
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Microsoft.OpenApi.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/MimeKit.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Mono.TextTemplating.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Newtonsoft.Json.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Npgsql.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/Superpower.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/System.CodeDom.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/System.Composition.AttributedModel.dll
 /home/sujon/Desktop/projects/backend/DokanHisab/bin/Debug/net10.0/System.Composition.Convention.dll
@@ -116,6 +121,7 @@
 /home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/DokanHisab.csproj.CoreCompileInputs.cache
 /home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/DokanHisab.MvcApplicationPartsAssemblyInfo.cs
 /home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/DokanHisab.MvcApplicationPartsAssemblyInfo.cache
+/home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/DokanHisab.sourcelink.json
 /home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /home/sujon/Desktop/projects/backend/DokanHisab/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
